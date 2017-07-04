@@ -7,3 +7,5 @@ npm install
 cd server
 node index
 3、npm run dev
+
+
